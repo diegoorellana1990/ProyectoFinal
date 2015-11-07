@@ -10,37 +10,44 @@
         android:layout_height="wrap_content"
         android:textAppearance="?android:attr/textAppearanceLarge"
         android:text="@string/post_tvTitulo"
+        android:textSize="@dimen/postea_tv"
 
          />
     <EditText
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
+        android:textSize="@dimen/postea_et"
         android:id="@+id/etPTitulo"/>
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:textSize="@dimen/postea_tv"
         android:textAppearance="?android:attr/textAppearanceLarge"
         android:text="@string/post_tvDescripcion"
         />
     <EditText
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
+        android:textSize="@dimen/postea_et"
         android:id="@+id/etPDescripcion"/>
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:textSize="@dimen/postea_tv"
         android:textAppearance="?android:attr/textAppearanceLarge"
         android:text="@string/post_tvContacto"
         />
     <EditText
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
+        android:textSize="@dimen/postea_et"
         android:id="@+id/etContacto"/>
     <Button
         style="@style/boton"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="@string/post_btnPostear"
+        android:textSize="@dimen/postea_tv"
         android:layout_marginTop="20dp"
          />
 </LinearLayout>

@@ -8,11 +8,11 @@
             <item
                 android:id="@+id/nav_sincroonizar"
                 android:icon="@android:drawable/ic_media_play"
-                android:title="Sincronizar" />
+                android:title="@string/nav_item_sincronizar" />
             <item
                 android:id="@+id/nav_posteartrabajo"
                 android:icon="@android:drawable/stat_sys_upload"
-                android:title="Postear trabajo" />
+                android:title="@string/nav_item_postear" />
         </menu>
     </item>
 

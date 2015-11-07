@@ -1,4 +1,7 @@
 <resources>
+    <string name="nav_item_sincronizar">Sincronizar</string>
+    <string name="nav_item_postear">Postear trabajo</string>
+    <string name="nav_Title">Proyecto de modulo 2</string>
     <string name="app_name">Busca trabajo</string>
     <string name="navigation">Busca trabajo</string>
     <string name="cerrar">cerrar</string>

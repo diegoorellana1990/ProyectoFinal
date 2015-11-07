@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="nav_header_height">260dp</dimen>
+    <dimen name="activity_horizontal_margin">64dp</dimen>
+    <dimen name="nav_title">22dp</dimen>
+    <dimen name="nav_creador">22dp</dimen>
+
+    <dimen name="detalle_titulo">90dp</dimen>
+    <dimen name="detalle_descripcion">36dp</dimen>
+    <dimen name="detalle_contacto">36dp</dimen>
+    <dimen name="detalle_numeros">36dp</dimen>
+
+    <dimen name="postea_tv">52dp</dimen>
+    <dimen name="postea_et">36dp</dimen>
+
+    <dimen name="item_descripcion">36dp</dimen>
+</resources>

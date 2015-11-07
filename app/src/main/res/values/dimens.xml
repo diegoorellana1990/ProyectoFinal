@@ -2,8 +2,20 @@
     <!-- Default screen margins, per the Android Design guidelines. -->
     <dimen name="nav_header_vertical_spacing">16dp</dimen>
     <dimen name="nav_header_height">160dp</dimen>
+    <dimen name="nav_title">18dp</dimen>
+    <dimen name="nav_creador">18dp</dimen>
     <!-- Default screen margins, per the Android Design guidelines. -->
     <dimen name="activity_horizontal_margin">16dp</dimen>
     <dimen name="activity_vertical_margin">16dp</dimen>
     <dimen name="fab_margin">16dp</dimen>
+
+    <dimen name="detalle_titulo">40dp</dimen>
+    <dimen name="detalle_descripcion">16dp</dimen>
+    <dimen name="detalle_contacto">16dp</dimen>
+    <dimen name="detalle_numeros">16dp</dimen>
+
+    <dimen name="postea_tv">24dp</dimen>
+    <dimen name="postea_et">16dp</dimen>
+
+    <dimen name="item_descripcion">16dp</dimen>
 </resources>

@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="nav_item_sincronizar">Synchronize</string>
+    <string name="nav_item_postear">Job posting</string>
+    <string name="nav_Title">Module s proyect 2</string>
     <string name="app_name">Work search</string>
-    <string name="navigation">Work searcho</string>
+    <string name="navigation">Search job</string>
     <string name="cerrar">Close</string>
 
     <string name="post_tvTitulo">Title</string>

@@ -8,16 +8,18 @@
         android:layout_height="wrap_content"
         android:gravity="center"
         android:textAppearance="?android:attr/textAppearanceLarge"
-        android:textSize="40dp"
+        android:textSize="@dimen/detalle_titulo"
         android:text="Titulo"
         android:id="@+id/tvDTitulo"
-        android:layout_gravity="center_horizontal" />
+        android:layout_gravity="center_horizontal"
+        style="@style/textView" />
 
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:textAppearance="?android:attr/textAppearanceLarge"
         android:text="Descripcion"
+        android:textSize="@dimen/detalle_descripcion"
         android:id="@+id/tvDDescripcion"
         android:layout_gravity="center_horizontal" />
 
@@ -25,6 +27,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:textAppearance="?android:attr/textAppearanceLarge"
+        android:textSize="@dimen/detalle_contacto"
         android:text="Contactos"
         android:textStyle="bold"
         android:id="@+id/tvDContactos" />
@@ -33,6 +36,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:textAppearance="?android:attr/textAppearanceLarge"
+        android:textSize="@dimen/detalle_numeros"
         android:text="Numeros"
         android:id="@+id/tvDNumeros" />
 </LinearLayout>
