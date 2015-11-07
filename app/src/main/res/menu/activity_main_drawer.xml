@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+
+    <item android:title="Encuentra trabajo">
+        <menu>
+            <item
+                android:id="@+id/nav_sincroonizar"
+                android:icon="@android:drawable/ic_media_play"
+                android:title="Sincronizar" />
+            <item
+                android:id="@+id/nav_posteartrabajo"
+                android:icon="@android:drawable/stat_sys_upload"
+                android:title="Postear trabajo" />
+        </menu>
+    </item>
+
+</menu>

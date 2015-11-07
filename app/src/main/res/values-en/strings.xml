@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Work search</string>
+    <string name="navigation">Work searcho</string>
+    <string name="cerrar">Close</string>
+
+    <string name="post_tvTitulo">Title</string>
+    <string name="post_tvDescripcion">Descripction</string>
+    <string name="post_tvContacto">Contact</string>
+    <string name="post_btnPostear">Post</string>
+
+</resources>

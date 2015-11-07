@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Busca trabajo</string>
+    <string name="navigation">Busca trabajo</string>
+    <string name="cerrar">cerrar</string>
+
+    <string name="post_tvTitulo">Titulo</string>
+    <string name="post_tvDescripcion">Descripcion</string>
+    <string name="post_tvContacto">Contacto</string>
+    <string name="post_btnPostear">Postear</string>
+</resources>
